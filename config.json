@@ -1,6 +1,6 @@
 {
   "timeZone": "Asia/Dhaka",
-  "prefix": "!",
+  "prefix": ".",
   "language": "en",
   "api": "http://65.109.80.126:20409/aryan",
   "baby": "https://nix-baby-apis.vercel.app",
@@ -47,13 +47,13 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100001611578438"
+    "100023789902793"
   ],
   "developer": [
-    "100001611578438"
+    "100023789902793"
   ],
   "vipuser": [
-    "100001611578438"
+    "100023789902793"
   ], 
   "whiteListMode": {
     "enable": false,
